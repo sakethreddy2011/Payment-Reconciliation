@@ -1,0 +1,137 @@
+tx_id,tx_date,amount,description
+TX-0001,2024-12-21,565.54,Payment from customer 1
+TX-0002,2024-12-08,1123.82,Payment from customer 2
+TX-0003,2024-12-22,3705.93,Payment from customer 3
+TX-0004,2024-12-19,2115.39,Payment from customer 4
+TX-0005,2024-12-03,1101.0,Payment from customer 5
+TX-0006,2024-12-18,1002.2,Payment from customer 6
+TX-0007,2024-12-08,2251.55,Payment from customer 7
+TX-0008,2024-12-26,4347.81,Payment from customer 8
+TX-0009,2024-12-23,2118.85,Payment from customer 9
+TX-0010,2024-12-05,1084.42,Payment from customer 10
+TX-0011,2024-12-04,472.8,Payment from customer 11
+TX-0012,2024-12-12,4239.0,Payment from customer 12
+TX-0013,2024-12-26,226.82,Payment from customer 13
+TX-0014,2024-12-18,632.88,Payment from customer 14
+TX-0015,2024-12-03,2764.68,Payment from customer 15
+TX-0016,2024-12-19,969.52,Payment from customer 16
+TX-0017,2024-12-02,3309.7,Payment from customer 17
+TX-0018,2024-12-03,4278.04,Payment from customer 18
+TX-0019,2024-12-13,1397.09,Payment from customer 19
+TX-0020,2024-12-06,1857.2,Payment from customer 20
+TX-0021,2024-12-22,1342.22,Payment from customer 21
+TX-0022,2024-12-20,3178.54,Payment from customer 22
+TX-0023,2024-12-06,2316.68,Payment from customer 23
+TX-0024,2024-12-21,3443.93,Payment from customer 24
+TX-0025,2024-12-22,1628.17,Payment from customer 25
+TX-0026,2024-12-08,4110.79,Payment from customer 26
+TX-0027,2024-12-13,1346.03,Payment from customer 27
+TX-0028,2024-12-19,4383.07,Payment from customer 28
+TX-0029,2024-12-07,3280.64,Payment from customer 29
+TX-0030,2024-12-21,2299.67,Payment from customer 30
+TX-0031,2024-12-05,1240.67,Payment from customer 31
+TX-0032,2024-12-24,2927.08,Payment from customer 32
+TX-0033,2024-12-12,1104.41,Payment from customer 33
+TX-0034,2024-12-17,2472.64,Payment from customer 34
+TX-0035,2024-12-28,557.15,Payment from customer 35
+TX-0036,2024-12-26,3405.6,Payment from customer 36
+TX-0037,2024-12-13,1914.28,Payment from customer 37
+TX-0038,2024-12-17,1264.56,Payment from customer 38
+TX-0039,2024-12-22,3606.4,Payment from customer 39
+TX-0040,2024-12-25,3208.4,Payment from customer 40
+TX-0041,2024-12-10,2179.48,Payment from customer 41
+TX-0042,2024-12-01,4769.54,Payment from customer 42
+TX-0043,2024-12-17,3812.19,Payment from customer 43
+TX-0044,2024-12-28,3130.25,Payment from customer 44
+TX-0045,2024-12-05,1875.83,Payment from customer 45
+TX-0046,2024-12-18,4767.96,Payment from customer 46
+TX-0047,2024-12-20,1627.54,Payment from customer 47
+TX-0048,2024-12-04,4646.2,Payment from customer 48
+TX-0049,2024-12-08,299.05,Payment from customer 49
+TX-0050,2024-12-03,3662.22,Payment from customer 50
+TX-0051,2024-12-25,2668.2,Payment from customer 51
+TX-0052,2024-12-05,3302.16,Payment from customer 52
+TX-0053,2024-12-09,2643.09,Payment from customer 53
+TX-0054,2024-12-07,4645.28,Payment from customer 54
+TX-0055,2024-12-23,1565.46,Payment from customer 55
+TX-0056,2024-12-15,4499.07,Payment from customer 56
+TX-0057,2024-12-04,1247.05,Payment from customer 57
+TX-0058,2024-12-11,114.96,Payment from customer 58
+TX-0059,2024-12-19,1108.88,Payment from customer 59
+TX-0060,2024-12-23,3159.2,Payment from customer 60
+TX-0061,2024-12-03,4528.05,Payment from customer 61
+TX-0062,2024-12-03,2575.64,Payment from customer 62
+TX-0063,2024-12-22,2432.22,Payment from customer 63
+TX-0064,2024-12-24,4678.22,Payment from customer 64
+TX-0065,2024-12-08,3925.25,Payment from customer 65
+TX-0066,2024-12-07,480.69,Payment from customer 66
+TX-0067,2024-12-12,2123.66,Payment from customer 67
+TX-0068,2024-12-28,3648.09,Payment from customer 68
+TX-0069,2024-12-02,2019.08,Payment from customer 69
+TX-0070,2024-12-26,4309.75,Payment from customer 70
+TX-0071,2024-12-07,959.14,Payment from customer 71
+TX-0072,2024-12-05,2115.19,Payment from customer 72
+TX-0073,2024-12-15,1256.53,Payment from customer 73
+TX-0074,2024-12-15,4042.03,Payment from customer 74
+TX-0075,2024-12-02,3264.2,Payment from customer 75
+TX-0076,2024-12-03,4632.57,Payment from customer 76
+TX-0077,2024-12-06,2038.01,Payment from customer 77
+TX-0078,2024-12-07,4324.61,Payment from customer 78
+TX-0079,2024-12-06,1901.08,Payment from customer 79
+TX-0080,2024-12-09,4633.33,Payment from customer 80
+TX-0081,2024-12-10,2120.81,Payment from customer 81
+TX-0082,2024-12-05,957.59,Payment from customer 82
+TX-0083,2024-12-02,2900.11,Payment from customer 83
+TX-0084,2024-12-24,1574.89,Payment from customer 84
+TX-0085,2024-12-19,2389.17,Payment from customer 85
+TX-0086,2024-12-02,4804.29,Payment from customer 86
+TX-0087,2024-12-28,937.27,Payment from customer 87
+TX-0088,2024-12-22,4310.48,Payment from customer 88
+TX-0089,2024-12-04,4708.56,Payment from customer 89
+TX-0090,2024-12-19,2976.65,Payment from customer 90
+TX-0091,2024-12-14,3290.29,Payment from customer 91
+TX-0092,2024-12-09,1029.25,Payment from customer 92
+TX-0093,2024-12-08,1335.42,Payment from customer 93
+TX-0094,2024-12-22,3231.05,Payment from customer 94
+TX-0095,2024-12-11,4645.8,Payment from customer 95
+TX-0096,2024-12-01,2296.84,Payment from customer 96
+TX-0097,2024-12-03,2692.8,Payment from customer 97
+TX-0098,2024-12-05,4666.96,Payment from customer 98
+TX-0099,2024-12-08,1853.94,Payment from customer 99
+TX-0100,2024-12-15,4170.39,Payment from customer 100
+TX-0101,2024-12-20,4919.43,Payment from customer 101
+TX-0102,2024-12-22,4087.35,Payment from customer 102
+TX-0103,2024-12-22,526.9,Payment from customer 103
+TX-0104,2024-12-09,585.99,Payment from customer 104
+TX-0105,2024-12-24,2770.59,Payment from customer 105
+TX-0106,2024-12-10,3028.1,Payment from customer 106
+TX-0107,2024-12-07,3440.61,Payment from customer 107
+TX-0108,2024-12-17,2447.77,Payment from customer 108
+TX-0109,2024-12-03,3175.08,Payment from customer 109
+TX-0110,2024-12-02,27.69,Payment from customer 110
+TX-0111,2024-12-21,4899.19,Payment from customer 111
+TX-0112,2024-12-24,2214.76,Payment from customer 112
+TX-0113,2024-12-18,58.25,Payment from customer 113
+TX-0114,2024-12-23,4520.6,Payment from customer 114
+TX-0115,2024-12-27,1852.39,Payment from customer 115
+TX-LATE-001,2024-12-31,899.99,Late settlement payment
+TX-ROUND-001,2024-12-15,100.001,Fractional-cent payment 1
+TX-ROUND-002,2024-12-15,100.001,Fractional-cent payment 2
+TX-ROUND-003,2024-12-15,100.001,Fractional-cent payment 3
+TX-ROUND-004,2024-12-15,100.001,Fractional-cent payment 4
+TX-ROUND-005,2024-12-15,100.001,Fractional-cent payment 5
+TX-ROUND-006,2024-12-15,100.001,Fractional-cent payment 6
+TX-ROUND-007,2024-12-15,100.001,Fractional-cent payment 7
+TX-ROUND-008,2024-12-15,100.001,Fractional-cent payment 8
+TX-ROUND-009,2024-12-15,100.001,Fractional-cent payment 9
+TX-ROUND-010,2024-12-15,100.001,Fractional-cent payment 10
+TX-ROUND-011,2024-12-15,100.001,Fractional-cent payment 11
+TX-ROUND-012,2024-12-15,100.001,Fractional-cent payment 12
+TX-ROUND-013,2024-12-15,100.001,Fractional-cent payment 13
+TX-ROUND-014,2024-12-15,100.001,Fractional-cent payment 14
+TX-ROUND-015,2024-12-15,100.001,Fractional-cent payment 15
+TX-ROUND-016,2024-12-15,100.001,Fractional-cent payment 16
+TX-ROUND-017,2024-12-15,100.001,Fractional-cent payment 17
+TX-ROUND-018,2024-12-15,100.001,Fractional-cent payment 18
+TX-ROUND-019,2024-12-15,100.001,Fractional-cent payment 19
+TX-ROUND-020,2024-12-15,100.001,Fractional-cent payment 20
